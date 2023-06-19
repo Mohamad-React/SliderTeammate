@@ -28,7 +28,7 @@ body {
 }
 
 .section .title::before{
-  w;
+  
   position: absolute;
   width: 100px;
   height: 3px;
